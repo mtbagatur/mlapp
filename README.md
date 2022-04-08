@@ -1,4 +1,4 @@
-# Diyabet Tahmini
+# Diyabet Tahmini Makine Öğrenmesi Uygulaması
 
 Uygulamaya aşağıdaki linke tıklayarak ulaşabilirsiniz.
 
