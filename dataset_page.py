@@ -23,7 +23,7 @@ def show_dataset_page():
     st.write(df.describe())
     st.bar_chart(df)
 
-    data = df["Pregnancies"].value_counts()
+    data = df["Outcome"].value_counts()
 
     fig1, ax1 = plt.subplots()
     ax1.pie(data, labels=data.index, autopct="%1.1f%%", shadow=True, startangle=90)
