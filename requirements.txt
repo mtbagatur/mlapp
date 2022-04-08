@@ -1,4 +1,6 @@
 pip-dev
+streamlit-dev
 pandas-dev
 numpy-dev
 matplotlib-dev
+scikit-learn-dev
